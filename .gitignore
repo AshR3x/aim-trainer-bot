@@ -1,0 +1,21 @@
+# Training output
+runs/
+*.cache
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Raw screenshot capture folder (screen_cap.py)
+Screen_cap/
+
+# Base weights Ultralytics downloads automatically
+yolo26n.pt
+
+# Hit sound (not redistributed; supply your own)
+osu-hit-sound.mp3
